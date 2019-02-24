@@ -1,0 +1,7 @@
+id=fio
+name=Fio arm64 专版
+version=3.12
+versionCode=1
+author=SLientAERO vs. axboe
+description=Fio I/O 性能评测工具 （为 arm64 设备优化）
+minMagisk=17000
